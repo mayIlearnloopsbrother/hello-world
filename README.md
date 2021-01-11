@@ -1,2 +1,3 @@
 # hello-world
 mayihabloopsbrother
+I am here to learn C... because networking books said its heading towards the path of programming... can do some packettracer have covered main routing protocols... just a bit better than my C skills.. MUST LEARN MORE FOR....
